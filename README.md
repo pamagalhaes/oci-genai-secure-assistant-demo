@@ -81,7 +81,7 @@ This allows clear visualization of how secure patterns change LLM behavior.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/oci-genai-secure-assistant-demo.git
+git clone https://github.com/pamagalhaes/oci-genai-secure-assistant-demo.git
 cd oci-genai-secure-assistant-demo
 ```
 Create a virtual environment:
