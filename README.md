@@ -1,5 +1,7 @@
 # Secure vs Insecure AI Assistant (Oracle GenAI)
 
+![Demo screenshot](assets/demo.png)
+
 A side-by-side demonstration of secure vs insecure LLM interaction using Oracle Generative AI (OCI).
 
 This project shows how prompt injection, data exfiltration attempts, and PII exposure can affect real-world AI applications — and how basic guardrails and logging mechanisms can mitigate these risks.
