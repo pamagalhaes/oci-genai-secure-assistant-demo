@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# Logs e artefatos locais
+logs.jsonl
+*.log
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# Secrets
+.env
+.oci/
+*.pem
